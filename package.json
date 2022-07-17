@@ -1,0 +1,23 @@
+{
+  "name": "aastha",
+  "version": "1.0.0",
+  "description": "this is transflower elearning repository for students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123Aashu/aastha.git"
+  },
+  "author": "aashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123Aashu/aastha/issues"
+  },
+  "homepage": "https://github.com/123Aashu/aastha#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
